@@ -77,6 +77,6 @@
     "dist"
   ],
   "dependencies": {
-    "filestack-js": "git+https://github.com/MoonCreativeLab/filestack-js.git#fix/sentry-416"
+    "filestack-js": "git+https://github.com/MoonCreativeLab/filestack-js.git#48ba3efe4643cb12ead25dbebf5be81091dca9ac"
   }
 }
